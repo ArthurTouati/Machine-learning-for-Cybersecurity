@@ -1,0 +1,7 @@
+Metric,Value
+Accuracy,0.8721
+Precision,0.8950
+Recall,0.8721
+F1 Score,0.8738
+Data Points,7471 (train) / 1868 (test)
+Epochs,100
