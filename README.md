@@ -18,7 +18,7 @@ Dans le cadre de ce projet de groupe, ma contribution personnelle s'est concentr
 
 Le code spécifique à ce modèle (incluant le prétraitement des données, la définition du modèle GRU et l'intégration avec le classificateur SVM) se trouve dans le dossier `/gru_svm` (ou à l'emplacement pertinent de votre projet).
 
-## 🚀 Utilisation (Exemple)
+## 🚀 Utilisation
 
 Pour tester ou répliquer les résultats de l'implémentation GRU-SVM :
 
@@ -35,14 +35,11 @@ Pour tester ou répliquer les résultats de l'implémentation GRU-SVM :
 
 3.  **Lancez l'expérimentation** (adaptez cette commande à votre script) :
     ```bash
-    python run_gru_svm.py
+    python ML.py
     ```
 
 ## 📊 Résultats
 
-*(Cette section est à compléter par vos soins)*
-
-Vous pouvez inclure ici un résumé des performances (Accuracy, Précision, Rappel, F1-Score) des trois modèles pour les comparer.
 
 | Modèle | Accuracy | Précision | Rappel | F1-Score |
 | :--- | :---: | :---: | :---: | :---: |
