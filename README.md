@@ -4,7 +4,7 @@ Ce dépôt contient le code source et les résultats du projet final pour le cou
 
 ## 🎯 Objectif du Projet
 
-L'objectif principal de ce projet est de comparer les performances de trois architectures de modèles hybrides appliquées à une problématique de cybersécurité (par exemple, la détection d'intrusion ou l'analyse de malwares).
+L'objectif principal de ce projet est de comparer les performances de trois architectures de modèles hybrides appliquées à une problématique de cybersécurité (ici la detection de malware dans un fichier image).
 
 Les trois algorithmes étudiés et comparés sont :
 
