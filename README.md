@@ -24,7 +24,7 @@ Pour tester ou répliquer les résultats de l'implémentation GRU-SVM :
 
 1.  **Clonez le dépôt :**
     ```bash
-    git clone [URL_DE_VOTRE_DEPOT]
+    git clone [(https://github.com/ArthurTouati/Machine-learning-for-Cybersecurity/tree/final-project_AT)]
     cd [NOM_DU_DEPOT]
     ```
 
