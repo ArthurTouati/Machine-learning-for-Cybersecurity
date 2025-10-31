@@ -43,6 +43,6 @@ Pour tester ou répliquer les résultats de l'implémentation GRU-SVM :
 
 | Modèle | Accuracy | Précision | Rappel | F1-Score |
 | :--- | :---: | :---: | :---: | :---: |
-| CNN-SVM | À compl. | À compl. | À compl. | À compl. |
+| CNN-SVM | 0.8469 | 0.8583 | 0.8469 | 0.8458 |
 | **GRU-SVM** | **0.8721** | **0.8950** | **0.8721** | **0.8738** |
-| MLP-SVM | À compl. | À compl. | À compl. | À compl. |
+| MLP-SVM | 0.7671 | 0.8265 | 0.7671 | 0.7818 |
